@@ -10,6 +10,8 @@ Each endpoint uses timeout to resolve the promise at a random time.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/74a5e749-bb58-4e72-b285-96d89b2b7239/deploy-status)](https://app.netlify.com/sites/display-a-table/deploys)
 
+👾☄️👻👺🕹️
+
 ## Variant
 There is only a single variant returned by the `mockFetch` function. A variant is an object. One of its properties is `working_data`. There you can find frames objects `first`, `middle`, `last`. 
 Each frame has a `frame_id` and a `content` object. The `content` object includes `key-value` pairs.
