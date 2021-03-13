@@ -1,4 +1,4 @@
-# Introduction
+# Display A Table - By Jon D Jones 💥
 
 In the `src/back-end/server.js` you can find a `mockFetch` function that you can use as if you were fetching data from a real server. The `mockFetch` exposes two endpoints: `/variant` and `/columns`.
 
